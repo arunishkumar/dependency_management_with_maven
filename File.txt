@@ -1,0 +1,9 @@
+Question 4-
+
+compile- Dependencies which are available at compile time.
+
+Runtime- Dependencies which are available at compile time.
+
+test- Dependencies which are available while running test.
+
+provided-Dependencies which are made available by containers.
